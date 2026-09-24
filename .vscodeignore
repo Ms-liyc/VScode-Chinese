@@ -1,0 +1,9 @@
+.vscode/**
+.git/**
+.github/**
+_temp-loc/**
+assets/**
+*.vsix
+.gitignore
+.vscodeignore
+CHANGELOG.md
